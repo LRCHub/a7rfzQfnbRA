@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花ちゃんはリスかっ!",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T20:51:36.501768Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花ちゃんはリスかっ!",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_花ちゃんはリスかっ!_神聖かまってちゃん.txt"
+    }
+  ]
+}
